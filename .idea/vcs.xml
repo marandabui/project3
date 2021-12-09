@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/spotify-api-plusplus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spotify-api-plusplus/build/spotify-api-plusplus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spotify-api-plusplus/build/spotify-api-plusplus/gtest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spotify-api-plusplus/gtest" vcs="Git" />
+  </component>
+</project>
